@@ -1,0 +1,11 @@
+{
+  "name": "ten-thu-vien",
+  "version": "1.0.0",
+  "description": "Mo ta ngan gon ve thu vien",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tennguoidung/ten-thu-vien.git"
+  },
+  "keywords": ["key", "words", "related"]
+}
